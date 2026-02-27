@@ -155,9 +155,7 @@ A **full-stack community marketplace** with geolocation-based discovery, real-ti
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ShashikarNEU&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashikarNEU&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=ShashikarNEU&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 
 </div>
 
